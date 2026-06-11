@@ -1,8 +1,11 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # Tiny Tapeout Verilog Project Template
+Try it in your browser by clicking this link:
+https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/PILIPINAS_flag
 
-- [Read the documentation for project](docs/info.md)
+<img width="1760" height="774" alt="image" src="https://github.com/user-attachments/assets/6f1600c5-579a-4bc0-b9a0-056c26e6bb1e" />
+
 
 ## What is Tiny Tapeout?
 
